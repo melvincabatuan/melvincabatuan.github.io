@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-My current research interest is on Machine Learning in Vision.
+My current research interests focus on Machine Learning in Vision.
 
 ### Contact me
 
