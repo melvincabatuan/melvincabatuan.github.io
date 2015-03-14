@@ -119,11 +119,12 @@ where:
 
 # <span> Cross Product Formula </span>
 
-$$\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
+\\[ \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
 \frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
 \frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
-\end{vmatrix}$$
+\end{vmatrix}
+//]
 
 -------------------------------------------------------------
 
@@ -142,14 +143,14 @@ $$\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 
 # <span> Maxwell's Equations </span>
 
-\[
+\\[
 \nabla \times \vec{\mathbf{B}} -\, \frac1c\,
 \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}}
 \\   \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
 \nabla \times \vec{\mathbf{E}}\, +\, \frac1c\,
 \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
 \nabla \cdot \vec{\mathbf{B}} & = 0
-\]
+\\]
 
 -------------------------------------------------------------
 
