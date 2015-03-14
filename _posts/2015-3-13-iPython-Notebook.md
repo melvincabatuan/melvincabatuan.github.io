@@ -9,8 +9,6 @@ title: iPython Notebook
 
 -------------------------------------------------------------
 
-[melvincabatuan](https://github.com/melvincabatuan "melvincabatuan") 
-
 [HelloNotebook](http://nbviewer.ipython.org/gist/melvincabatuan/c5f4c0adfbac8f0b35e8 "HelloNotebook")
 
 -------------------------------------------------------------
