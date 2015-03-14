@@ -9,10 +9,9 @@ title: iPython Notebook
 
 -------------------------------------------------------------
 
-# <pre>   <span class="hgviolet"> Introduction </span>
+[melvincabatuan](https://github.com/melvincabatuan "melvincabatuan") 
 
-<p style="text-align: center;"><i class="icon-github icon-2x">
-[melvincabatuan](https://github.com/melvincabatuan)</i></p>
+[HelloNotebook](http://nbviewer.ipython.org/gist/melvincabatuan/c5f4c0adfbac8f0b35e8 "HelloNotebook")
 
 -------------------------------------------------------------
 
