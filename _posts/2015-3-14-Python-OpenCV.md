@@ -7,4 +7,6 @@ title: Python OpenCV
                                        Hans Hofmann
  
 
->![_config.yml]({{ site.baseurl }}/images/eso.png)(http://nbviewer.ipython.org/gist/melvincabatuan/78a13832169de5ca81cd) 
+>![_config.yml]({{ site.baseurl}}/images/eso.png)
+
+> [OpenCV Python Demo](http://nbviewer.ipython.org/gist/melvincabatuan/78a13832169de5ca81cd "OpenCV Python Demo") 
