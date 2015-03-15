@@ -10,5 +10,3 @@ title: Elementary Signals
 >![_config.yml]({{ site.baseurl}}/images/sync.png)
 
 > [Elementary Signals Demo](http://nbviewer.ipython.org/gist/melvincabatuan/e73db10e3cdf5525ef47 "Elementary Signals Demo") 
-
-<code data-gist-id="14d55b618c753045f439"></code>
