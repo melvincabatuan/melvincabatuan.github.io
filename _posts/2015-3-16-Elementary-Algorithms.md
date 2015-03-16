@@ -3,7 +3,7 @@ layout: post
 title: Elementary Algorithms
 ---
 
-> "*All knowledge can be thought of as either **declarative** or **imperative**. Declarative knowledge is composed of statements of fact. Unfortunately, it doesn't tell us how to find that certain fact. Imperative knowledge is the **HOW TO** knowledge, or recipes for deducing information.*"  
+> "*All knowledge can be thought of as either declarative or imperative. Declarative knowledge is composed of statements of fact. Unfortunately, it doesn't tell us how to find that certain fact. Imperative knowledge is the HOW TO knowledge, or recipes for deducing information*."  
                                        John Guttag
  
 
