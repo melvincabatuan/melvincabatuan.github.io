@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NetworKit Tutorial Part 1
+title: NetworKit Tutorial
 ---
 
 > "*I think the next century will be the century of COMPLEXITY.*"  
