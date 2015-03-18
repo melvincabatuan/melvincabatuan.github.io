@@ -3,7 +3,7 @@ layout: post
 title: NetworKit Tutorial Part 1
 ---
 
-> "*I think the next century will be the century of <br> COMPLEXITY.*"  
+> "*I think the next century will be the century of COMPLEXITY.*"  
                                        Stephen Hawking
  
 
