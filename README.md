@@ -1,3 +1,3 @@
 # MLVN = Machine Learning + VisioN
 
-**MLVN = Machine Learning + VisioN** is a micro blog about [Computer Vision](http://en.wikipedia.org/wiki/Computer_vision), [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning) and everything in between. 
+**MLVN = Machine Learning + Vision + Networks** is a micro blog about [Computer Vision](http://en.wikipedia.org/wiki/Computer_vision), [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning), [Network Science] (http://en.wikipedia.org/wiki/Network_science) and everything in between. 
