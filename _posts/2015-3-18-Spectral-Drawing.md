@@ -9,6 +9,6 @@ title: Spectral Drawing
 >![_config.yml]({{ site.baseurl}}/images/spectral.png)
 
 > "*I believe Network science can bring us to the next level of understanding*."
-                                        mkc 
+                                        - mkc 
 
 > [Spectral Drawing Demo](http://nbviewer.ipython.org/gist/melvincabatuan/e89b3f3cec54e6ac728b "Spectral Drawing Demo") 
