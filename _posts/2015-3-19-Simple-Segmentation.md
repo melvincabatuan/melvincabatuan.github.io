@@ -7,7 +7,7 @@ title: Image Segmentation
                                        Pedro Felzenszwalb
 ## Input
 
->![_config.yml]({{ site.baseurl}}/images/coins.pgm)
+>![_config.yml]({{ site.baseurl}}/images/coins.png)
 
 
 ## Simple Image Segmentation with OpenGM
@@ -16,4 +16,4 @@ title: Image Segmentation
 
 ## Output
 
->![_config.yml]({{ site.baseurl}}/images/out.pgm)
+>![_config.yml]({{ site.baseurl}}/images/out.png)
