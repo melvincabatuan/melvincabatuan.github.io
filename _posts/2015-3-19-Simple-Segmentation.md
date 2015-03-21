@@ -5,7 +5,7 @@ title: Image Segmentation
 
 > "*The problems of image segmentation and grouping remain great challenges for computer vision. Since the time of the Gestalt movement in psychology, it has been known that perceptual grouping plays a powerful role in human visual perception*."  
                                        Pedro Felzenszwalb
-## Input
+## Input:
 
 >![_config.yml]({{ site.baseurl}}/images/coins.png)
 
@@ -14,6 +14,6 @@ title: Image Segmentation
 
 <code data-gist-id="7bf023ec33056d804e09"></code>
 
-## Output
+## Output:
 
 >![_config.yml]({{ site.baseurl}}/images/out.png)
