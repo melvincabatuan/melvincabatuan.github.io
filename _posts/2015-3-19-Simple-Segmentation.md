@@ -16,4 +16,6 @@ title: Image Segmentation
 
 ## Output:
 
+$ ./imageSegSimple coins.pgm out.pgm 20.0 30 90
+
 >![_config.yml]({{ site.baseurl}}/images/out.png)
