@@ -19,3 +19,21 @@ title: Image Segmentation
 $ ./imageSegSimple coins.pgm out.pgm 20.0 30 90
 
 >![_config.yml]({{ site.baseurl}}/images/out.png)
+
+
+## Image Segmentation (with EM Learning) in OpenGM
+
+<code data-gist-id="ff45cf981265a32c750b"></code>
+
+## Output:
+
+$ ./imageSegWithEMLearning coins.pgm out.pgm 3 0.1
+
+>![_config.yml]({{ site.baseurl}}/images/out2.png)
+
+
+## Output:
+
+$ ./imageSegWithEMLearning coins.pgm out.pgm 2 0.1
+
+>![_config.yml]({{ site.baseurl}}/images/out3.png)
