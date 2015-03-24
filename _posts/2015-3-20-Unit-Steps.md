@@ -9,4 +9,6 @@ title: Unit Steps
 
 >![_config.yml]({{ site.baseurl}}/images/steps.png)
 
-> [Unit Steps Q1 Answer](http://nbviewer.ipython.org/gist/melvincabatuan/67e1e1841d4acd566245 "Unit Steps Q1 Answer") 
+> [Unit Steps Q1 # 1](http://nbviewer.ipython.org/gist/melvincabatuan/67e1e1841d4acd566245 "Unit Steps Q1 # 1") 
+
+> [Unit Steps Q1 Answers](http://nbviewer.ipython.org/gist/melvincabatuan/cbcd531dcf152a72af04 "Unit Steps Q1 Answers (Complete)") 
