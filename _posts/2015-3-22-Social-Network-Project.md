@@ -9,4 +9,4 @@ title: Social Network Project
 
 >![_config.yml]({{ site.baseurl}}/images/facepamphlet.png)
 
-> [Social Network Project](http://nbviewer.ipython.org/gist/melvincabatuan/31a4367446f344bae80f "Social Network Project") 
+> [Social Network Project](http://nbviewer.ipython.org/gist/melvincabatuan/d8ac62bc0726ecdc0f22 "Social Network Project") 
