@@ -8,10 +8,11 @@ title: iPython Notebook
 
 
 -------------------------------------------------------------
-
 [HelloNotebook](http://nbviewer.ipython.org/gist/melvincabatuan/c5f4c0adfbac8f0b35e8 "HelloNotebook")
-
 -------------------------------------------------------------
+[HelloPython](http://nbviewer.ipython.org/gist/melvincabatuan/dae9d232c8a6bc6ae21a "HelloPython")
+-------------------------------------------------------------
+
 
 <br/>
 <br/>
