@@ -10,4 +10,4 @@ title: MATLAB's Image Processing
 >![_config.yml]({{ site.baseurl}}/images/geralt.png)
 
 
-> <iframe src="https://docs.google.com/a/dlsu.edu.ph/file/d/0B6GYu_QtcFzQbThrRzQ5MTU5V1k/preview" width="640" height="480"></iframe>
+><iframe src="https://docs.google.com/a/dlsu.edu.ph/file/d/0B6GYu_QtcFzQbThrRzQ5MTU5V1k/preview" width="640" height="480"></iframe>
