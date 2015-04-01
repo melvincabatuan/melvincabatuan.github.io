@@ -78,4 +78,4 @@ References:
     [1.] Radhakrishna Achanta, Appu Shaji, Kevin Smith, Aurelien Lucchi, Pascal Fua, and Sabine Süsstrunk, SLIC Superpixels Compared to State-of-the-art Superpixel Methods, TPAMI, May 2012.
     [2.] Adrian Rosebrock, Segmentation: A SLIC Superpixel Tutorial using Python. http://www.pyimagesearch.com/2014/07/28/a-slic-superpixel-tutorial-using-python
     [3.] http://ivrg.epfl.ch/research/superpixels#SLICO
-    [2.] http://scikit-image.org/docs/dev/api/skimage.segmentation.html#skimage.segmentation.slic
+    [4.] http://scikit-image.org/docs/dev/api/skimage.segmentation.html#skimage.segmentation.slic
