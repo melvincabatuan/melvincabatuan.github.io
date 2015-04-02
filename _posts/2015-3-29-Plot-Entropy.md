@@ -8,13 +8,13 @@ title: Plot Entropy
 
 # Entropy 
 
-Image entropy, $ H $ , is a quantity which is used to describe the amount of information coded in an image. If an image has $ G $ gray levels and the probability of gray level $ k $ is $ P(k) $ , then, the entropy $ H $ is defined as
+Image entropy, $ H\_e $, is a quantity which is used to describe the amount of information coded in an image. If an image has $ G $ gray levels and the probability of gray level $ k $ is $ P(k) $ , then, the entropy $ H\_e $ is defined as
 
 $$ 
-  H = - \sum\_{k=0}^{G-1}  P(k) log_2(P(k)) 
+  H\_e = - \sum\_{k=0}^{G-1}  P(k) log_2(P(k)) 
 $$
 
-The probability of ocurrence of gray level, $P(k)$ , can be estimated as   
+The probability of ocurrence of gray level, $P(k)$, can be estimated as   
 
 $$ 
   \tilde{P}(k)=\dfrac{h(k)}{MN}
@@ -26,7 +26,7 @@ Thus, the entropy can be estimated as
 
 $$
 
-  \tilde{H}_e = - \sum_{k=0}^{2^b-1}  \tilde{P}(k) log_2(\tilde{P}(k)) 
+  \tilde{H}\_e = - \sum\_{k=0}^{2^b-1}  \tilde{P}(k) log_2(\tilde{P}(k)) 
   
 $$
 
