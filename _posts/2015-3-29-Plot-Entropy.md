@@ -9,7 +9,7 @@ title: Plot Entropy
 # Entropy 
 
 Image entropy, $ H_e $ , is a quantity which is used to describe the amount of information coded in an image. 
-If an image has $ G $ gray levels and the probability of gray level $ k $ is $ P(k) $, then, the entropy $ H_e $ is defined as:
+If an image has $ G $ gray levels and the probability of gray level $ k $ is $ P(k) $ , then, the entropy $ H_e $ is defined as:
 
 $$ 
   H_e = - \sum_{k=0}^{G-1}  P(k) log_2(P(k)) 
