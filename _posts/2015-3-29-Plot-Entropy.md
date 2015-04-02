@@ -8,7 +8,7 @@ title: Plot Entropy
 
 # Entropy 
 
-Image entropy, $ H\_e $, is a quantity which is used to describe the amount of information coded in an image. If an image has $ G $ gray levels and the probability of gray level $ k $ is $ P(k) $ , then, the entropy $ H\_e $ is defined as
+Image entropy, $ H\_e $, is a quantity which is used to describe the amount of information coded in an image. If an image has $ G $ gray levels and the probability of gray level $ k $ is $ P(k) $, then, the entropy $ H\_e $ is defined as
 
 $$ 
   H\_e = - \sum\_{k=0}^{G-1}  P(k) log\_2(P(k)) 
@@ -74,10 +74,6 @@ $$
     fig.colorbar(img1, ax=ax1)
     
     plt.show();
-
-    /usr/local/lib/python3.4/site-packages/skimage/util/dtype.py:107: UserWarning: Possible precision loss when converting from float64 to uint8
-      "%s to %s" % (dtypeobj_in, dtypeobj))
-
 
 
 ![_config.yml]({{ site.baseurl}}/images/plot_entropy_9_1.png)
