@@ -31,14 +31,14 @@ Feature detection is an essential component of many computer vision applications
     skdemo.imshow_all(pixelated, gradient)
 
 
-![png](Feature%20Detection_files/Feature%20Detection_4_0.png)
+![_config.yml]({{ site.baseurl}}/images/Feature_Detection_4_0.png)
 
 
 
     skdemo.imshow_all(gradient, gradient > 0.4)
 
 
-![png](Feature%20Detection_files/Feature%20Detection_5_0.png)
+![_config.yml]({{ site.baseurl}}/images/Feature_Detection_5_0.png)
 
 
 ### Canny edge detector
@@ -61,7 +61,7 @@ The Canny edge detector combines the Sobel filter with a few other steps to give
     skdemo.imshow_all(pixelated_float, smooth)
 
 
-![png](Feature%20Detection_files/Feature%20Detection_9_0.png)
+![_config.yml]({{ site.baseurl}}/images/Feature_Detection_9_0.png)
 
 
 ### Step 2: Sobel filter
@@ -71,7 +71,7 @@ The Canny edge detector combines the Sobel filter with a few other steps to give
     skdemo.imshow_all(smooth, gradient_magnitude)
 
 
-![png](Feature%20Detection_files/Feature%20Detection_11_0.png)
+![_config.yml]({{ site.baseurl}}/images/Feature_Detection_11_0.png)
 
 
 ### Step 3: Non-maximal suppression
@@ -85,7 +85,7 @@ The Canny edge detector combines the Sobel filter with a few other steps to give
     skdemo.imshow_all(zoomed_grad, grad_along_edge, limits='dtype')
 
 
-![png](Feature%20Detection_files/Feature%20Detection_13_0.png)
+![_config.yml]({{ site.baseurl}}/images/Feature_Detection_13_0.png)
 
 
 ### Step 4: Hysteresis thresholding
@@ -104,7 +104,7 @@ The Canny edge detector combines the Sobel filter with a few other steps to give
     plt.imshow(demo_image);
 
 
-![png](Feature%20Detection_files/Feature%20Detection_15_0.png)
+![_config.yml]({{ site.baseurl}}/images/Feature_Detection_15_0.png)
 
 
 The **red points** here are above `high_threshold` and are seed points for edges. The **yellow points** are edges if connected (possibly by other yellow points) to seed points; i.e. isolated groups of yellow points will not be detected as edges.
@@ -129,7 +129,7 @@ Note that the demo above is on the edge image *before* non-maximal suppression, 
     widgets.interact(canny_demo);  # <-- add keyword arguments for `canny`
 
 
-![png](Feature%20Detection_files/Feature%20Detection_18_0.png)
+![_config.yml]({{ site.baseurl}}/images/Feature_Detection_18_0.png)
 
 
 
@@ -148,7 +148,7 @@ Note that the demo above is on the edge image *before* non-maximal suppression, 
     plt.imshow(image);
 
 
-![png](Feature%20Detection_files/Feature%20Detection_21_0.png)
+![_config.yml]({{ site.baseurl}}/images/Feature_Detection_21_0.png)
 
 
 
@@ -156,7 +156,7 @@ Note that the demo above is on the edge image *before* non-maximal suppression, 
     plt.imshow(edges);
 
 
-![png](Feature%20Detection_files/Feature%20Detection_22_0.png)
+![_config.yml]({{ site.baseurl}}/images/Feature_Detection_22_0.png)
 
 
 
@@ -182,7 +182,7 @@ Note that the demo above is on the edge image *before* non-maximal suppression, 
     widgets.interact(hough_responses_demo, i=(0, len(hough_response)-1));
 
 
-![png](Feature%20Detection_files/Feature%20Detection_24_0.png)
+![_config.yml]({{ site.baseurl}}/images/Feature_Detection_24_0.png)
 
 
 # Reference:
