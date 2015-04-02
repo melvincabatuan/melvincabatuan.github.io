@@ -187,6 +187,7 @@ Note that the demo above is on the edge image *before* non-maximal suppression, 
 
 # Reference:
      [1] https://github.com/scikit-image/scikit-image
+     [2] Richard Szeliski. Computer Vision: Algorithms and Applications. Springer, New York, 2010.
      
      
 <iframe src="http://mesh.brown.edu/engn1610/szeliski/04-featuredetectionandmatching.pdf" width=100% height="888"></iframe>
