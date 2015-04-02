@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic Feature detection 
+title: Basic Feature Detection 
 ---
 
 > "*The fact that objects in the world appear in different ways depending on the scale of observation has important implications if one aims at describing them. It shows that the notion of scale is of utmost importance when processing unknown measurement data by automatic methods.*"  
