@@ -187,3 +187,6 @@ Note that the demo above is on the edge image *before* non-maximal suppression, 
 
 # Reference:
      [1] https://github.com/scikit-image/scikit-image
+     
+     
+<iframe src="http://mesh.brown.edu/engn1610/szeliski/04-featuredetectionandmatching.pdf" width=100% height="888"></iframe>
