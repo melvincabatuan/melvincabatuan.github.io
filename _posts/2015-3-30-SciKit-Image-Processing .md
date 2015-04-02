@@ -10,4 +10,4 @@ title: SCIKIT Image Processing
 >![_config.yml](http://scikit-image.org/_static/img/logo.png)
 
 
-><iframe src="http://arxiv.org/pdf/1407.6245.pdf" width="640" height="480"></iframe>
+<iframe src="http://arxiv.org/pdf/1407.6245.pdf" width=100% height="480"></iframe>
