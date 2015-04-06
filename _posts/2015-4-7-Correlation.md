@@ -38,9 +38,9 @@ $$
    (f \star g)(\tau)\  =  \int_{-\infty}^{\infty} f(t)\ g(t+\tau)\,dt
 $$
 
-## * Thus, the only difference between cross-correlation and convolution is a <span style="color:red">time reversal</span> on one of the inputs in convolution. *
+##  Thus, the only difference between cross-correlation and convolution is a <span style="color:red">time reversal</span> on one of the inputs in convolution.  
 
-## 1. <span style="color:red"> *Cross-correlation*</span> , $(f \ast g)(t)$, produces a similarity measure that represents the amount of overlap between $f$ and a translated version of $g$.
+## 1. <span style="color:red"> Cross-correlation</span> , $(f \ast g)(t)$, produces a similarity measure that represents the amount of overlap between $f$ and a translated version of $g$.
 
 ##  (a) For finite duration waveform:
 
