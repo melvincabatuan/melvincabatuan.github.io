@@ -52,26 +52,26 @@ $$(f \star g)(\tau)\  =  \int\_{T\_1}^{T_2} f(t)\ g(t+\tau)\,dt $$
 
 $$ (f \star g)(\tau)\  =  \lim\_{T\to\infty} \dfrac{1}{T} \int_{\frac{-T}{2}}^{\frac{T}{2}} f(t)\ g(t+\tau)\,dt $$
 
-## 2. <span style="color:red">*Autocorrelation*</span> refers to the correlation of a signal with its own past and future values. 
+## 2. <span style="color:red">Autocorrelation</span> refers to the correlation of a signal with its own past and future values. 
 
 ## (a) For finite duration waveform:
 
 $$
-   (f \star f)(\tau)\  =  \int_{T_1}^{T_2} f(t)\ f(t+\tau)\,dt
+   (f \star f)(\tau)\  =  \int\_{T\_1}^{T_2} f(t)\ f(t+\tau)\,dt
 $$
  
- if $f(t)$ exists in the interval $T_1 \le t \le T_2$
+ if $f(t)$ exists in the interval $T\_1 < t < T_2$
 
 ## (b) For infinite duration waveform:
 
 $$
-   (f \star f)(\tau)\  =  \lim_{T\to\infty} \dfrac{1}{T} \int_{\frac{-T}{2}}^{\frac{T}{2}} f(t)\ f(t+\tau)\,dt
+   (f \star f)(\tau)\  =  \lim\_{T\to\infty} \dfrac{1}{T} \int_{\frac{-T}{2}}^{\frac{T}{2}} f(t)\ f(t+\tau)\,dt
 $$
 
 ## (c) For a periodic waveform:
 
 $$
-   (f \star f)(\tau)\  =  \dfrac{1}{T} \int_{t_0 }^{t_0 + T} f(t)\ f(t+\tau)\,dt
+   (f \star f)(\tau)\  =  \dfrac{1}{T} \int\_{t\_0 }^{t_0 + T} f(t)\ f(t+\tau)\,dt
 $$
 
 for an arbitrary $t_0$.
