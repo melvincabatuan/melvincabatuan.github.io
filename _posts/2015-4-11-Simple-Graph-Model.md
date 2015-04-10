@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Simple Graph Model in Torch 
+title: Simple Graph Model
 ---
 
 > "*I have moved to Torch7. My NYU lab uses Torch7, Facebook AI Research uses Torch7, DeepMind and other folks at Google use Torch7.*"    
