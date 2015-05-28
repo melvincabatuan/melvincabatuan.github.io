@@ -8,7 +8,7 @@ title: Deep Networks
 > "*It's a two-layer system in which the first layer is trained with the simplest of all unsupervised learning method: simply store the training samples as prototypes in the units. Basically, varying the smoothness of the kernel function allows us to interpolate between two simple methods: linear classification, and template matching. I got in trouble about 10 years ago by saying that kernel methods were a form of glorified template matching.*"  
 
 > "*Performing image recognition with invariance to shifts, scale, rotation, lighting conditions, and background clutter was impossible (or extremely inefficient) for a kernel machine operating at the pixel level. But it was quite easy for deep architectures such as convolutional nets.*" 
-                                           Yann LeCun
+                                       Yann LeCun
  
 
 

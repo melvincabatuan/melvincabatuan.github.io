@@ -7,6 +7,9 @@ title: SCIKIT's Image Segmentation
                                        Albert Szent-Gyorgyi
  
 
+>![_config.yml]({{ site.baseurl}}/images/geralt.png)
+
+
 
     import numpy as np
     %matplotlib inline

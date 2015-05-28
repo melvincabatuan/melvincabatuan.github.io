@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-...
+MLVN = Machine Learning + Vision + Networks
 
 ### More Information
 
-My current research interests focus on Machine Learning in Vision.
+My current research interests focus on Machine Learning + Vision + Networks.
+
+![_config.yml]({{ site.baseurl }}/images/superpixel_me.png)
 
 ### Contact me
 

@@ -1,0 +1,45 @@
+---
+layout: post
+title: Elementary Algorithms
+---
+
+> "*All knowledge can be thought of as either **declarative** or **imperative**. Declarative knowledge is composed of statements of fact. Unfortunately, it doesn't tell us how to find that certain fact. Imperative knowledge is the **HOW TO** knowledge, or recipes for deducing information.*"  
+                                       John Guttag
+ 
+
+>![_config.yml]({{ site.baseurl}}/images/littleprince.jpg)
+
+
+## Get Maximum or Minimum element
+
+
+
+## Linear Search
+
+
+
+## Binary Search
+
+
+
+## Bubble Sort
+
+
+
+## Insertion Sort
+
+
+
+## Selection Sort
+
+
+
+## Quicksort
+
+
+
+## Greedy Change Algorithm
+
+
+
+## Euclid's Algorithm
