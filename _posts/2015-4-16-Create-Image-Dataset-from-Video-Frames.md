@@ -11,7 +11,7 @@ title: Create Image Dataset from Video Frames
 1. ffmpeg
 2. opencv (with text file labels)
 
-# ffmpeg
+# 1. ffmpeg
 
     ffmpeg -i /path/to/your/video.mp4 -r 1/1 $frame%04d.jpg     
 
@@ -22,9 +22,20 @@ E.g.
 ![_config.yml]({{ site.baseurl}}/images/frame_extraction.png)
 
 
-# opencv
+# 2. opencv
 
+    ./opencv_frame_extraction -fn="/path/to/your/video.mp4"
 
 E.g.
 
-<code data-gist-id="7422790021035015eb0c"></code> 
+<code data-gist-id="f80a60ce50c5bd8b1383"></code> 
+
+![_config.yml]({{ site.baseurl}}/images/frame_extraction2.png)
+
+## Source code:
+
+<code data-gist-id="ae74d7c871ec45022bf2"></code>
+
+## Github:
+
+[FrameExtractionSample](https://github.com/melvincabatuan/FrameExtractionDemo2)
