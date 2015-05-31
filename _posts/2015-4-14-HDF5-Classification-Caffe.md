@@ -26,7 +26,7 @@ That's what Caffe is about:
     %matplotlib inline
     
     # Make sure that caffe is on the python path:
-    caffe_root = '../'  # this file is expected to be in {caffe_root}/examples
+    caffe\_root = '../'  # this file is expected to be in {caffe_root}/examples
     import sys
     sys.path.insert(0, caffe_root + 'python')
     
@@ -48,12 +48,12 @@ Synthesize a dataset of 10,000 4-vectors for binary classification with 2 inform
 
 
     X, y = sklearn.datasets.make_classification(
-        n_samples=10000, n_features=4, n_redundant=0, n_informative=2, 
-        n_clusters_per_class=2, hypercube=False, random_state=0
+        n\_samples=10000, n\_features=4, n\_redundant=0, n_informative=2, 
+        n\_clusters\_per\_class=2, hypercube=False, random_state=0
     )
     
     # Split into train and test
-    X, Xt, y, yt = sklearn.cross_validation.train_test_split(X, y)
+    X, Xt, y, yt = sklearn.cross\_validation.train\_test_split(X, y)
     
     # Visualize sample of the data
     ind = np.random.permutation(X.shape[0])[:1000]
