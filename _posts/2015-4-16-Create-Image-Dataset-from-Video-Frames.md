@@ -9,7 +9,7 @@ title: Create Image Dataset from Video Frames
 ## This task can be accomplished by either of the following methods:
 
 1. ffmpeg
-2. opencv (with text file labels)
+2. opencv
 
 # 1. ffmpeg
 
