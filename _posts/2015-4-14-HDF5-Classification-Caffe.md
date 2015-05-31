@@ -4,7 +4,7 @@ title: HDF5-Classification-Caffe
 ---
 
 
-# Basic Logistic Regression of HDF5 Data using Caffe by Yangqing Jia
+Basic Logistic Regression of HDF5 Data using Caffe by Yangqing Jia
 
 While Caffe is made for deep networks it can likewise represent "shallow" models like logistic regression for classification. 
 
@@ -17,6 +17,7 @@ That's what Caffe is about:
 1. define a model 
 2. experiment
 3. deploy.
+
 
 
     import numpy as np
