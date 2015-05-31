@@ -6,7 +6,7 @@ title: Create Image Dataset from Video Frames
 
 
 
-## This task can be accomplished by either of the following methods:
+This task can be accomplished by either of the following methods:
 
 1. ffmpeg
 2. opencv
@@ -32,10 +32,10 @@ E.g.
 
 ![_config.yml]({{ site.baseurl}}/images/frame_extraction2.png)
 
-## Source code:
+# Source code:
 
 <code data-gist-id="ae74d7c871ec45022bf2"></code>
 
-## Github:
+# Github:
 
 [FrameExtractionSample](https://github.com/melvincabatuan/FrameExtractionDemo2)
