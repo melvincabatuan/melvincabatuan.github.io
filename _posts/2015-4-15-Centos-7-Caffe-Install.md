@@ -6,9 +6,7 @@ title: Centos 7 Caffe Install
 
 
 
-## Install necessary dependency
-
- E.g.
+Install dependency
 
 1. Boost
 2. Threads
@@ -27,11 +25,11 @@ title: Centos 7 Caffe Install
 15. Doxygen
 16. Git
 
-## Sample config summary
+### Sample config summary
 
 <code data-gist-id="7422790021035015eb0c"></code>
 
 
-## Sample build and test
+### Sample build and test
  
 <code data-gist-id="2f1cfbd923ac307128af"></code>
