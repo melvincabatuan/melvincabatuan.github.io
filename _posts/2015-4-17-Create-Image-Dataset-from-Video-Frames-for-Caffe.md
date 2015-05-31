@@ -5,8 +5,7 @@ title: Create Image Dataset from Video Frames for Caffe
 
 
 
-
-## Caffe image dataset requires `train.txt` and `val.txt` which are text listing all the files and their labels.
+Caffe image dataset requires `train.txt` and `val.txt` which are text listing all the files and their labels.
 
 E.g.
 
