@@ -5,7 +5,7 @@ title: libdeep xor
 
 Here is a simple and portable deep learning C library: [libdeep](https://github.com/bashrc/libdeep) by Bob Mottram.
 
-To get a general feel of this library, lets try its xor example:
+To get a general feel of this library, lets try its xor example 
 
 E.g.
 
@@ -15,15 +15,15 @@ Simply run `make` or
 
     gcc -Wall -ansi -pedantic -o xor xor.c -ldeep -lm -fopenmp
 
-Run the executable for training the xor network:
+Run the executable for training the xor network 
 
     ./xor
 
-Note: The data are as follows:
+Note: The data are as follows 
 
 <code data-gist-id="33f26e006c585ad1d0bf"></code>
 
-After a few seconds it will finish the training with the following output:
+After a few seconds it will finish the training with the following output 
 
 ```shell
 Loading data set
@@ -39,15 +39,15 @@ Test data set performance is 99.9%
 
 And it will produce the xor networks both in C and Python:
 
-## C xor Network:
+C xor Network 
 
 <code data-gist-id="f25af0f8ed6eb5eeaf8f"></code>
 
-## Python xor Network:
+Python xor Network 
 
 <code data-gist-id="3219e6f4f55fd4e5df02"></code>
 
-## Testing the C Network:
+Testing the C Network 
 
 ```shell
  ./export_xor zero zero
