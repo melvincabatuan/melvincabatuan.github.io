@@ -3,7 +3,7 @@ layout: post
 title: libdeep xor
 ---
 
-Here is a simple and portable deep learning C library: [libdeep](https://github.com/bashrc/libdeep) by Bob Mottram.
+Here is a simple and portable deep learning C library [libdeep](https://github.com/bashrc/libdeep) by Bob Mottram.
 
 To get a general feel of this library, lets try its xor example 
 
