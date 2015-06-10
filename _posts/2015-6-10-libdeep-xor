@@ -5,7 +5,7 @@ title: libdeep xor
 
 Here is a simple and portable deep learning C library: [libdeep](https://github.com/bashrc/libdeep "libdeep") by Bob Mottram.
 
-To get a general feel of this library, let's try its xor example:
+To get a general feel of this library, lets try its xor example:
 
 E.g.
 
@@ -51,7 +51,7 @@ And it will produce the xor networks both in C and Python:
 
 <code data-gist-id="3219e6f4f55fd4e5df02"></code>
 
-Testing the C Network
+## Testing the C Network:
 
 ```shell
  ./export_xor zero zero
