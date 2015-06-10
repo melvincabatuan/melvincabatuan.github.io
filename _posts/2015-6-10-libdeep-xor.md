@@ -1,6 +1,6 @@
 ---
 layout: post
-title: libdeep xor
+title: libdeep xor example
 ---
 
 Here is a simple and portable deep learning C library: [libdeep](https://github.com/bashrc/libdeep "libdeep") by Bob Mottram.
