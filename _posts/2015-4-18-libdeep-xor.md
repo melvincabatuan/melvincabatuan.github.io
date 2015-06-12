@@ -5,7 +5,7 @@ title: libdeep xor
 
 
 
-Here is a simple and portable deep learning C library [libdeep](https://github.com/bashrc/libdeep) by Bob Mottram.
+Here is a simple and portable deep learning C library: [libdeep](https://github.com/bashrc/libdeep) by Bob Mottram.
 
 To get a general feel of this library, lets try its xor example 
 
@@ -13,18 +13,26 @@ E.g.
 
 <code data-gist-id="b1223c5a701352e02ea2"></code>
 
-## Extracting the frames of a video clip can correspond to one label. Thus, the following command can be utilized: 
+Simply run `make` or 
 
-    ./opencv_frame_extraction -fn="/path/to/your/video.mp4" -label="3"
+    gcc -Wall -ansi -pedantic -o xor xor.c -ldeep -lm -fopenmp
 
-## The command will extract the video frames and provide the text listings with the label provided (default is 0): 
+Run the executable for training the xor network 
 
-![_config.yml]({{ site.baseurl}}/images/frame_extraction3.png)
+    ./xor
 
-## Source code:
+Note: The data are as follows 
 
-<code data-gist-id="e2636d0fdddac14061da"></code>
+<code data-gist-id="33f26e006c585ad1d0bf"></code>
 
-## Github:
+After a few seconds it will finish the training with the following output 
 
-[FrameExtractionSampleforCaffe](https://github.com/melvincabatuan/FrameExtractionSampleforCaffe)
+```shell
+Loading data set
+Number of training examples: 22
+Number of labeled training examples: 22
+Number of test examples: 6
+Number of Inputs: 64
+Training Completed
+Test data set performance is 99.9%
+```
