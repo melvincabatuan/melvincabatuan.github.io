@@ -28,7 +28,7 @@ The data are as follows
 
 After a few seconds it will finish the training with the following output 
 
-```shell
+```
 Loading data set
 Number of training examples: 22
 Number of labeled training examples: 22
@@ -52,7 +52,7 @@ Python xor Network
 
 Testing the C Network 
 
-```shell
+```
  ./export_xor zero zero
 0.0055552125
  ./export_xor zero one
