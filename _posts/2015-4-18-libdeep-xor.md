@@ -5,11 +5,13 @@ title: libdeep xor
 
 
 
-Caffe image dataset requires `train.txt` and `val.txt` which are text listing all the files and their labels.
+Here is a simple and portable deep learning C library [libdeep](https://github.com/bashrc/libdeep) by Bob Mottram.
+
+To get a general feel of this library, lets try its xor example 
 
 E.g.
 
-<code data-gist-id="b72ef6456438fc48f7b8"></code> 
+<code data-gist-id="b1223c5a701352e02ea2"></code>
 
 ## Extracting the frames of a video clip can correspond to one label. Thus, the following command can be utilized: 
 
