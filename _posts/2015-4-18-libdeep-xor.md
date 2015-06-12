@@ -16,11 +16,11 @@ E.g.
 Simply run `make` or 
 
 
-    gcc -Wall -ansi -pedantic -o xor xor.c -ldeep -lm -fopenmp
+    `gcc -Wall -ansi -pedantic -o xor xor.c -ldeep -lm -fopenmp`
 
 Run the executable for training the xor network 
 
-    ./xor
+    `./xor`
 
 The data are as follows 
 
