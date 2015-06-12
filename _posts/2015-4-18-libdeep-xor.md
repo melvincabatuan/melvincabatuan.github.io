@@ -25,14 +25,4 @@ Note: The data are as follows
 
 <code data-gist-id="33f26e006c585ad1d0bf"></code>
 
-After a few seconds it will finish the training with the following output 
-
-```shell
-Loading data set
-Number of training examples: 22
-Number of labeled training examples: 22
-Number of test examples: 6
-Number of Inputs: 64
-Training Completed
-Test data set performance is 99.9%
-```
+After a few seconds it will finish the training with the following output
