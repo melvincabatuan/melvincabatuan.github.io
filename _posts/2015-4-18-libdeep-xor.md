@@ -14,3 +14,14 @@ E.g.
 <code data-gist-id="b1223c5a701352e02ea2"></code>
 
 Simply run `make` or 
+
+
+    gcc -Wall -ansi -pedantic -o xor xor.c -ldeep -lm -fopenmp
+
+Run the executable for training the xor network 
+
+    ./xor
+
+The data are as follows 
+
+<code data-gist-id="33f26e006c585ad1d0bf"></code>
