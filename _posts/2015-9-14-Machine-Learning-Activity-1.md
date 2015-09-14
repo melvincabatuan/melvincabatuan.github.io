@@ -294,7 +294,7 @@ endfor
 
 
 
-![_config.yml]({{ site.baseurl }}/mlprediction1.svg)
+![_config.yml]({{ site.baseurl }}/images/mlprediction1.svg)
 
 
 
