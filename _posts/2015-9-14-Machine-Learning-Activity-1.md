@@ -127,7 +127,7 @@ for ii = 1:MAX_ITERATION
               plot(x(:,2), x*theta, 'bd-');
            endif
             if (ii == 500)
-              printf("The result after one iteration is : \n");
+              printf("The result after 500 iteration is : \n");
               theta
               plot(x(:,2), x*theta, 'r:');
            endif
@@ -152,7 +152,7 @@ legend ("Data","Initial theta","First iteration theta","500th iteration theta","
       0.07453
       0.38002
     
-    The result after one iteration is : 
+    The result after 500 iteration is : 
     theta =
     
       0.73178
