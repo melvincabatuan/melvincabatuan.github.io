@@ -86,11 +86,11 @@ ylabel('Price ($)');
 
 
 
-![_config.yml]({{ site.baseurl }}/images/output_2_1.svg)
+![_config.yml]({{ site.baseurl }}/images/output_ml21.svg)
 
 
 
-![_config.yml]({{ site.baseurl }}/images/output_2_2.svg)
+![_config.yml]({{ site.baseurl }}/images/output_ml22.svg)
 
 
 
