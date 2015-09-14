@@ -93,7 +93,4 @@ ylabel('Price ($)');
 ![_config.yml]({{ site.baseurl }}/images/output_2_2.svg)
 
 
-
-```python
-
-```
+mkc
