@@ -146,7 +146,7 @@ legend('Admitted', 'Not Admitted')
 
 
 
-![png](output_5_1.png)
+![_config.yml]({{ site.baseurl}}/images/ml3_5_1.png)
 
 
 ## Hypothesis: Sigmoid or Logistic Function
@@ -169,7 +169,7 @@ grid on;
 
 
 
-![png](output_7_1.png)
+![_config.yml]({{ site.baseurl}}/images/ml3_7_1.png)
 
 
 ## Newton's Method and the Cost Function
