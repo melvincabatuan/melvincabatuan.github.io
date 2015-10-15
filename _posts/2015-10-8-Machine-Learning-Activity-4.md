@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Regularization: Linear and Logistic Regression 
+title: Regularization with Linear and Logistic Regression 
 ---
 
 
