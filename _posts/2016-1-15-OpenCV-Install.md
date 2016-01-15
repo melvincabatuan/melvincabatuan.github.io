@@ -3,33 +3,33 @@ layout: post
 title: OpenCV Install from Github (Ubuntu)
 ---
 
-1. Clone OpenCV repository to your machine.  
+- Clone OpenCV repository to your machine.  
 
 ``` git clone https://github.com/Itseez/opencv.git ```
 
 >![_config.yml]({{ site.baseurl}}/images/opencv_github.png)
 
-2. Go to the root directory.
+- Go to the root directory.
 
 ``` cd /home/path/to/your/opencv ```
 
-3. Create a build directory
+- Create a build directory
 
 ``` mkdir build ``` 
 
-4. Go to the build directory.
+- Go to the build directory.
 
 ``` cd build ```
 
-5. Generate the makefile with cmake.
+- Generate the makefile with cmake.
 
 ``` cmake .. ```
 
-6. Compile with make.
+- Compile with make.
 
 ``` make -j4 ``` or ``` make -j8``` 
 
-7. Install
+- Install
 
 ``` sudo make install ```
 
