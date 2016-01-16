@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenCV Install from Github (Ubuntu)
+title: Object Detection (Work-in-progress)
 ---
 
 *excerpts from opencv3 blueprints*
