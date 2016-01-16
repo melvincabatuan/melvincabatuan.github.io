@@ -8,7 +8,7 @@ title: Object Detection (Work-in-progress)
 >![_config.yml]({{ site.baseurl}}/images/opencv3_blueprints.jpg)
 
 
-### Factors that affect the object detection
+### Factors that affect object detection
 
 - **Data collection** 
 
@@ -51,6 +51,11 @@ The OpenCV team was kind enough to also integrate this tool into the main reposi
 
 >![_config.yml]({{ site.baseurl}}/images/opencv3_apps.png)
 
+Sample executables after OpenCV 3.0 install: (Notice: opencv_annotation, opencv_createsamples, and opencv_traincascade)
+
+>![_config.yml]({{ site.baseurl}}/images/opencv3_bin.png)
+
+
 - **Model Training**
 
 In this step, you will use the data gathered in the first step to train an object model that will be able to detect that model class. Here, the different training parameters will be investigated and the focus will be on defining the correct settings for the application.
@@ -60,10 +65,6 @@ In this step, you will use the data gathered in the first step to train an objec
 Once you have a trained object model, you can use it to try and detect object instances in the given test images. Compare each detection with a manually defined ground truth of the test data.
 
 *Ground truth* means a set of measurements that is known to be much more accurate than measurements from the system you are testing, e.x. manually annotated, problem-specific labels in computer vision.
-
-
-
-
 
 
 > "*If you have a positive attitude and constantly strive to give your best effort, eventually you will overcome your immediate problems and find you are ready for greater challenges.*"  
