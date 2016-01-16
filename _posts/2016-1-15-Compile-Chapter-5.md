@@ -29,12 +29,14 @@ E.x.
 
 >![_config.yml]({{ site.baseurl}}/images/OpenCVBlueprints_ch_5.png)
 
-- Sample build: (object\_annotation)  
+- Sample build: (object annotation)
+
 ```
 cd object_annotation/
 cmake .
 make -j4
 ```
+
 >![_config.yml]({{ site.baseurl}}/images/OpenCVBlueprints_ch_5_2.png)
 
 Now, you are ready to annotate!
