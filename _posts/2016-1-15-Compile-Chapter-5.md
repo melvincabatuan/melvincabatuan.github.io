@@ -29,7 +29,7 @@ E.x.
 
 >![_config.yml]({{ site.baseurl}}/images/OpenCVBlueprints_ch_5.png)
 
-- Sample build: (object_annotation)  
+- Sample build: (object\_annotation)  
 ```
 cd object_annotation/
 cmake .
