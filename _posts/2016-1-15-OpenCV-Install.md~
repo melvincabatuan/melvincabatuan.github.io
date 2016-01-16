@@ -9,27 +9,27 @@ title: OpenCV Install from Github (Ubuntu)
 
 >![_config.yml]({{ site.baseurl}}/images/opencv_github.png)
 
-1. Go to the root directory.
+2. Go to the root directory.
 
 ``` cd /home/path/to/your/opencv ```
 
-1. Create a build directory
+3. Create a build directory
 
 ``` mkdir build ``` 
 
-1. Go to the build directory.
+4. Go to the build directory.
 
 ``` cd build ```
 
-1. Generate the makefile with cmake.
+5. Generate the makefile with cmake.
 
 ``` cmake .. ```
 
-1. Compile with make.
+6. Compile with make.
 
 ``` make -j4 ``` or ``` make -j8``` 
 
-1. Install
+7. Install
 
 ``` sudo make install ```
 
