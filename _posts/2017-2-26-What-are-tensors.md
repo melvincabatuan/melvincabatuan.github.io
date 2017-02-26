@@ -2,11 +2,11 @@
 
 E.g.
 
-Scalar:  $\left( f : \mathbb{R}\rightarrow \mathbb{R},  f\left(e_1\right) = c \right)$  
+Scalar:  $\left( f : \mathbb{R}\rightarrow \mathbb{R},  f\left(e\_1\right) = c \right)$  
 
-Vector:  $\left( f : \mathbb{R}^n \rightarrow \mathbb{R},  f\left(e_i\right) = v_i \right)$  
+Vector:  $\left( f : \mathbb{R}^n \rightarrow \mathbb{R},  f\left(e\_i\right) = v\_i \right)$  
 
-Matrix:  $\left( f : \mathbb{R}^n \times \mathbb{R}^m \rightarrow \mathbb{R},  f\left(e_i, e_j\right) = A_{ij} \right)$
+Matrix:  $\left( f : \mathbb{R}^n \times \mathbb{R}^m \rightarrow \mathbb{R},  f\left(e\_i, e\_j\right) = A\_{ij} \right)$
 
 
 ```python
