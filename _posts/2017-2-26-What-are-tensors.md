@@ -2,11 +2,11 @@
 
 E.g.
 
-Scalar:  $\left( f :\: \mathbb{R}\rightarrow \mathbb{R}, \: f(e_1) = c \right)$  
+Scalar:  $\left( f : \mathbb{R}\rightarrow \mathbb{R},  f\left(e_1\right) = c \right)$  
 
-Vector:  $\left( f :\: \mathbb{R}^n \rightarrow \mathbb{R}, \: f(e_i) = v_i \right)$  
+Vector:  $\left( f : \mathbb{R}^n \rightarrow \mathbb{R},  f\left(e_i\right) = v_i \right)$  
 
-Matrix:  $\left( f :\: \mathbb{R}^n \times \mathbb{R}^m \rightarrow \mathbb{R}, \: f(e_i, e_j) = A_{ij} \right)$
+Matrix:  $\left( f : \mathbb{R}^n \times \mathbb{R}^m \rightarrow \mathbb{R},  f\left(e_i, e_j\right) = A_{ij} \right)$
 
 
 ```python
@@ -68,7 +68,7 @@ session = tf.InteractiveSession()
 
 ## Tensors in Tensorflow
 
-### A. Scalar $\left( f :\: \mathbb{R}\rightarrow \mathbb{R}, \: f(e_1) = c \right)$  
+### A. Scalar $\left( f : \mathbb{R}\rightarrow \mathbb{R},  f(e_1) = c \right)$  
 
 
 ```python
