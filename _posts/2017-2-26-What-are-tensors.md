@@ -9,49 +9,6 @@ Vector:  $\left( f : \mathbb{R}^n \rightarrow \mathbb{R},  f\left(e\_i\right) = 
 Matrix:  $\left( f : \mathbb{R}^n \times \mathbb{R}^m \rightarrow \mathbb{R},  f\left(e\_i, e\_j\right) = A\_{ij} \right)$
 
 
-```python
-from IPython.display import IFrame
-IFrame('https://en.wikipedia.org/wiki/Tensor', width='100%', height=540)
-```
-
-
-
-
-
-        <iframe
-            width="100%"
-            height="540"
-            src="https://en.wikipedia.org/wiki/Tensor"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
-        
-
-
-
-Here's a nice introduction video to tensors:
-
-
-```python
-from IPython.display import YouTubeVideo
-YouTubeVideo("f5liqUk0ZTw")
-```
-
-
-
-
-
-        <iframe
-            width="400"
-            height="300"
-            src="https://www.youtube.com/embed/f5liqUk0ZTw"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
-        
-
-
-
 ## Importing Tensorflow for the demo
 
 
@@ -85,7 +42,7 @@ c.eval()
 
 
 
-### B. Vector $\left( f :\: \mathbb{R}^n \rightarrow \mathbb{R}, \: f(e_i) = v_i \right)$ 
+### B. Vector $\left( f :\: \mathbb{R}^n \rightarrow \mathbb{R}, \: f(e\_i) = v\_i \right)$ 
 
 
 ```python
@@ -102,7 +59,7 @@ v3.eval()
 
 
 
-### C. Matrix  $\left( f :\: \mathbb{R}^n \times \mathbb{R}^m \rightarrow \mathbb{R}, \: f(e_i, e_j) = A_{ij} \right)$
+### C. Matrix  $\left( f :\: \mathbb{R}^n \times \mathbb{R}^m \rightarrow \mathbb{R}, \: f(e\_i, e\_j) = A\_{ij} \right)$
 
 
 ```python
