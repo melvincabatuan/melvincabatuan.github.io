@@ -1,8 +1,11 @@
 ## Tensors are multilinear maps from vector spaces to the real numbers.
 
-E.g.   
+E.g.
+
 Scalar:  $\left( f :\: \mathbb{R}\rightarrow \mathbb{R}, \: f(e_1) = c \right)$  
+
 Vector:  $\left( f :\: \mathbb{R}^n \rightarrow \mathbb{R}, \: f(e_i) = v_i \right)$  
+
 Matrix:  $\left( f :\: \mathbb{R}^n \times \mathbb{R}^m \rightarrow \mathbb{R}, \: f(e_i, e_j) = A_{ij} \right)$
 
 
