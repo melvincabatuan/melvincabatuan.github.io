@@ -1,7 +1,4 @@
 
-## Fixed Valued Tensors
-
-
 ```python
 import tensorflow as tf
 session = tf.InteractiveSession()
