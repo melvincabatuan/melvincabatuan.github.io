@@ -60,7 +60,7 @@ plt.show()
 ```
 
 
-![png](2017227_output_8_0.png)
+![_config.yml]({{ site.baseurl}}/images/2017227_output_8_0.png)
 
 
 ## Crop image:
@@ -82,7 +82,7 @@ plt.show()
 
 
 
-![png](2017227_output_10_1.png)
+![_config.yml]({{ site.baseurl}}/images/2017227_output_10_1.png)
 
 
 
