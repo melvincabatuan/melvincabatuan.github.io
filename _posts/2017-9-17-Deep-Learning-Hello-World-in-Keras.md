@@ -1,7 +1,4 @@
 
-Deep Learning Intro in Keras (MNIST Tutorial 1)
-=============
-
 Assignment 1-a: Deep Learning Hello World! (Baseline)
 ------------
 
