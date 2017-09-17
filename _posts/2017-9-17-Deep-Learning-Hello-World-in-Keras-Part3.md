@@ -1,5 +1,5 @@
 
-# Assignment 1-c: Deep Learning Hello World! (3-layer MLP+Dropout)
+## Assignment 1-c: Deep Learning Hello World! (3-layer MLP+Dropout)
 
 Objective: To be able to improve upon the 3-layer MLP in part 2 by adding dropout for MNIST Classification
 
@@ -21,7 +21,7 @@ from matplotlib import pyplot as plt
 %matplotlib inline
 ```
 
-Step 2: Set-up some constants to be utilized in the training/testing of the model <br\>
+Step 2: Set-up some constants to be utilized in the training/testing of the model <br/>
 Note: the number of epochs (NB_EPOCH) is increased to 250
 
 
