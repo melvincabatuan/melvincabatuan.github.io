@@ -156,7 +156,7 @@ plt.imshow(images[0], cmap='gray')
 
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_11_1.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_11_0.png)
 
 
 Step 5: Define method for plotting a person: 50 images 
@@ -178,7 +178,7 @@ plot_person_category(images, 0)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_14_0.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_11_1.png)
 
 
 
@@ -188,7 +188,7 @@ plot_person_category(images, 1)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_15_0.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_12_0.png)
 
 
 
@@ -198,7 +198,7 @@ plot_person_category(images, 2)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_16_0.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_13_0.png)
 
 
 
@@ -208,7 +208,7 @@ plot_person_category(images, 3)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_17_0.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_14_0.png)
 
 
 
@@ -218,7 +218,7 @@ plot_person_category(images, 4)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_18_0.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_15_0.png)
 
 
 
@@ -228,7 +228,7 @@ plot_person_category(images, 5)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_19_0.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_16_0.png)
 
 
 
@@ -238,7 +238,7 @@ plot_person_category(images, 6)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_20_0.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_17_0.png)
 
 
 
@@ -248,7 +248,7 @@ plot_person_category(images, 7)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_21_0.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_18_0.png)
 
 
 
@@ -258,7 +258,7 @@ plot_person_category(images, 8)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_22_0.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_19_0.png)
 
 
 
@@ -268,7 +268,7 @@ plot_person_category(images, 9)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/lenetv2_output_23_0.png)
+![_config.yml]({{ site.baseurl}}/images/facerecog_output_20_0.png)
 
 
 Separate into test and train
