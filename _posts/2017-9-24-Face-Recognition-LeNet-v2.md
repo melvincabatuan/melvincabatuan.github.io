@@ -1,6 +1,4 @@
 
-#  Face recognition with LeNet v2
-
 Step 1: Organize imports
 
 
