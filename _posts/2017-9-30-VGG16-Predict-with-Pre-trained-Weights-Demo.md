@@ -122,6 +122,8 @@ print(np.argmax(out))
 Note: 281: 'tabby, tabby cat'
 
 ## ImageNet Categories
+
+```
 {0: 'tench, Tinca tinca',
  1: 'goldfish, Carassius auratus',
  2: 'great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias',
@@ -1121,4 +1123,7 @@ Note: 281: 'tabby, tabby cat'
  996: 'hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa',
  997: 'bolete',
  998: 'ear, spike, capitulum',
- 999: 'toilet tissue, toilet paper, bathroom tissue'}-mkc
+ 999: 'toilet tissue, toilet paper, bathroom tissue'}
+ ```
+ 
+ -mkc
