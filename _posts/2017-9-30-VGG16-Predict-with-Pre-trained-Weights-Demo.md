@@ -108,7 +108,7 @@ im = im.transpose((2,0,1))
 im = np.expand_dims(im, axis=0)
 ```
 
-## Step 6: Precict with VGG-16 Model 
+## Step 6: Predict with VGG-16 Model 
 
 
 ```python
