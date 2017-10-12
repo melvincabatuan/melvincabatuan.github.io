@@ -298,7 +298,7 @@ plt.show()
 
 Step 10: Sample prediction
 
-<img src="https://github.com/melvincabatuan/melvincabatuan.github.io/blob/master/images/cat.jpg" alt="Cat">
+![](https://github.com/melvincabatuan/melvincabatuan.github.io/blob/master/images/cat.jpg)
 
 
 ```python
@@ -322,7 +322,7 @@ print(prediction)
 
 
 	
-<img src="https://github.com/melvincabatuan/melvincabatuan.github.io/blob/master/images/dog.jpg alt="Cat">	
+![](https://github.com/melvincabatuan/melvincabatuan.github.io/blob/master/images/dog.jpg)	
 	
 	
 ```python
