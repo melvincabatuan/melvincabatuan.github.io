@@ -4,6 +4,8 @@
 ### Step 1: Update Tensorflow using pip
 
 Note: Make sure to activate your conda environment first, e.g. 'activate keras'
+
+```
 (tensorflow-gpu) C:\Users\ECE\Downloads>pip install --ignore-installed --upgrade tensorflow-gpu
 Collecting tensorflow-gpu
   Downloading tensorflow_gpu-1.4.0-cp35-cp35m-win_amd64.whl (67.6MB)
@@ -32,13 +34,23 @@ Collecting werkzeug>=0.11.10 (from tensorflow-tensorboard<0.5.0,>=0.4.0rc1->tens
   Using cached Werkzeug-0.12.2-py2.py3-none-any.whl
 Installing collected packages: setuptools, six, protobuf, wheel, enum34, markdown, html5lib, bleach, numpy, werkzeug, tensorflow-tensorboard, tensorflow-gpu
 Successfully installed bleach-1.5.0 enum34-1.1.6 html5lib-0.9999999 markdown-2.6.9 numpy-1.13.3 protobuf-3.4.0 setuptools-36.7.2 six-1.11.0 tensorflow-gpu-1.4.0 tensorflow-tensorboard-0.4.0rc2 werkzeug-0.12.2 wheel-0.30.0
+```
+
 ### Step 2: Install Git for Windows
+```
 https://git-scm.com/download/win
+```
+
 ### Step 3: Install Keras from the Github source:
 
 #### 3-a Clone keras github (in cmd)
+```
 git clone https://github.com/fchollet/keras.git
+```
+
 #### 3-b Go to keras dir, set-up, and install
+
+```
 cd keras
 sudo python setup.py installe.g. 
 (tensorflow-gpu) D:\workspace\keras>python setup.py install
@@ -268,4 +280,5 @@ Adding numpy 1.13.3 to easy-install.pth file
 Using c:\program files\anaconda3\envs\tensorflow-gpu\lib\site-packages
 Finished processing dependencies for Keras==2.1.0
 
-(tensorflow-gpu) D:\workspace\keras>- mkc
+```
+- mkc
