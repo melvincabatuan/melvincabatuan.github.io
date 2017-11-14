@@ -6,6 +6,14 @@
 Note: Make sure to activate your conda environment first, e.g. 'activate keras'
 
 ```
+pip install --ignore-installed --upgrade tensorflow
+```
+or
+```
+pip install --ignore-installed --upgrade tensorflow-gpu
+```
+
+```
 (tensorflow-gpu) C:\Users\ECE\Downloads>pip install --ignore-installed --upgrade tensorflow-gpu
 Collecting tensorflow-gpu
   Downloading tensorflow_gpu-1.4.0-cp35-cp35m-win_amd64.whl (67.6MB)
@@ -52,7 +60,11 @@ git clone https://github.com/fchollet/keras.git
 
 ```
 cd keras
-sudo python setup.py installe.g. 
+sudo python setup.py install
+```
+
+```
+e.g. 
 (tensorflow-gpu) D:\workspace\keras>python setup.py install
 running install
 running bdist_egg
