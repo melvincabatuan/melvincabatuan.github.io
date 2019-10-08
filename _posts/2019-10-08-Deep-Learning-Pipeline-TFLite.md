@@ -1,4 +1,3 @@
-# Deep Learning Training Pipeline
 
 ```python
 import tensorflow as tf
