@@ -1412,7 +1412,7 @@ plt.show()
 
 
 
-![_config.yml]({{ site.baseurl}}/images/output_44_0\ (2).png)
+![_config.yml]({{ site.baseurl}}/images/output_44_0 (2).png)
 
 
 ## Evaluate Model
@@ -1532,7 +1532,7 @@ plot_confusion_matrix(cm, target_names, title=title, cmap=None, normalize=False)
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/20191101_output_44_0\ (1).png)
+![_config.yml]({{ site.baseurl}}/images/20191101_output_44_0 (1).png)
 
 
 
