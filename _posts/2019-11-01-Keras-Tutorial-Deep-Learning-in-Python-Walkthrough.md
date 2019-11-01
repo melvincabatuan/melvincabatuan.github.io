@@ -1104,7 +1104,7 @@ sns.boxplot(data = X_train)
 
 
 
-![_config.yml]({{ site.baseurl}}/images/20191101_output_26_1.png)
+![_config.yml]({{ site.baseurl}}/images/20191101_output_27_1 (2).png)
 
 
 
@@ -1120,7 +1120,7 @@ sns.boxplot(data = X_test)
 
 
 
-![_config.yml]({{ site.baseurl}}/images/20191101_output_27_1.png)
+![_config.yml]({{ site.baseurl}}/images/20191101_output_27_1 (1).png)  
 
 
 ## MLP Data Model
@@ -1412,7 +1412,7 @@ plt.show()
 
 
 
-![_config.yml]({{ site.baseurl}}/images/output_44_0 (2).png)
+![_config.yml]({{ site.baseurl}}/images/20191101_output_44_0 (2).png)
 
 
 ## Evaluate Model
