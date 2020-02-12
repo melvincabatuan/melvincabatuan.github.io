@@ -78,8 +78,8 @@ y_pred = model.predict(x)
 
 
 ```python
-plt.scatter(x,y, color='black', label='prediction: 1.83x + 14')
-plt.plot(x,y_pred, color = 'green', label='target (data)')
+plt.scatter(x,y, color='black', label='target (data)')
+plt.plot(x,y_pred, color = 'green', label='prediction: 1.83x + 14')
 plt.legend()
 plt.xlabel('x')
 plt.ylabel('y')
@@ -87,7 +87,7 @@ plt.grid("on")
 ```
 
 
-![_config.yml]({{ site.baseurl}}/images/20200206_output_14_0.png)
+![_config.yml]({{ site.baseurl}}/images/20200206_output_14_0_v2.png)
 
 
 
